@@ -1,4 +1,4 @@
-Here's a crisp README file for your Java quiz application:
+
 
 ---
 
