@@ -43,12 +43,13 @@ A simple, interactive quiz application built with Java Swing and AWT libraries. 
 - Swing and AWT Libraries for GUI
 
 ## Screenshots
+<img width="661" alt="f1" src="https://github.com/user-attachments/assets/79b2e58f-3556-4808-a380-b562ff2fe5c2">
 
+<img width="587" alt="f2" src="https://github.com/user-attachments/assets/45ef6145-aa16-4bfa-987f-2a6f2e332e41">
 
-<img width<img width="587" alt="f2" src="https://github.com/user-attachments/assets/c53ada97-0af6-4a65-b452-d338ef8eade7">
-="661" alt="f1" src="https://github.com/user-attachments/assets/f8faa2d7-77d0-44fd-a85c-e04e105c7db6">
-<i<img width="515" alt="f4" src="https://github.com/user-attachments/assets/487a9970-c067-42dc-9e8e-228f039e7a31">
-mg width="587" alt="f2" src="https://github.com/user-attachments/assets/1a5359a6-b7b4-4e5a-b004-f4bde8be41e7">
+<img width="950" alt="f3" src="https://github.com/user-attachments/assets/0c15e452-f470-403e-b2eb-f739e2da28aa">
+
+<img width="515" alt="f4" src="https://github.com/user-attachments/assets/0379cdcf-c8ea-4045-8099-c580e9584e62">
 
 ## License
 
